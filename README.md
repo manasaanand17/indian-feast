@@ -9,9 +9,11 @@ Includes a user-friendly menu with clickable options to navigate to different se
 
 
 Recipe Sections:
+
 Spices:
 A dedicated section providing detailed recipes for various Indian spices.
 Includes step-by-step instructions, ingredient lists, and preparation tips.
+
 Desserts:
 A section offering a wide range of traditional and contemporary Indian dessert recipes.
 Features detailed recipes with instructions and tips for perfecting each dessert.
@@ -21,12 +23,10 @@ Interactive Elements:
 
 Users can click on different menu options to navigate to their desired recipe section.
 Each recipe includes images, ingredient lists, and preparation steps to guide users through the cooking process.
-User Experience:
-
-The website is designed to be intuitive and easy to navigate, ensuring a smooth user experience.
-The layout is responsive, providing optimal viewing on both desktop and mobile devices.
 Technologies Used
+
 Streamlit:
 The core framework used to build the web application. Streamlit allows for the rapid development of interactive and data-driven web apps using Python.
+
 Python:
 The programming language used to implement the backend logic and functionalities of the web app.
