@@ -6,14 +6,17 @@ Homepage:
 The homepage welcomes users with a vibrant and inviting design.
 Displays the title "Indian Feast" prominently.
 Includes a user-friendly menu with clickable options to navigate to different sections of the website, such as "Spices" and "Desserts."
-Recipe Sections:
 
+
+Recipe Sections:
 Spices:
 A dedicated section providing detailed recipes for various Indian spices.
 Includes step-by-step instructions, ingredient lists, and preparation tips.
 Desserts:
 A section offering a wide range of traditional and contemporary Indian dessert recipes.
 Features detailed recipes with instructions and tips for perfecting each dessert.
+
+
 Interactive Elements:
 
 Users can click on different menu options to navigate to their desired recipe section.
